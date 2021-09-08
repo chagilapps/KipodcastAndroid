@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4FaFFf</color>
+    <color name="colorPrimaryDark">#8D5A1C8C</color>
+    <color name="colorAccent">#5A1C8C</color>
+    <color name="colorWhite">#000000</color> <!-- Background Color for Splash Screen-->
+
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>

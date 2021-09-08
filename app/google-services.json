@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689194422201",
+    "project_id": "kipodcast",
+    "storage_bucket": "kipodcast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689194422201:android:6d30f2e7f0a8b74a397068",
+        "android_client_info": {
+          "package_name": "chagilapps.kipodcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689194422201-3ql1iml440g4ekftbh85u4naghot5sgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDBthcy3NPLSECD-HjYZrityBKAcARNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689194422201-3ql1iml440g4ekftbh85u4naghot5sgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
